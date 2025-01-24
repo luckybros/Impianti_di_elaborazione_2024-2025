@@ -1,0 +1,13 @@
+# Ignora la cartella apache-jmeter-5.6.3
+apache-jmeter-5.6.3/
+
+# Ignora tutti i file .csv
+Benchmark/BenchmarkMac
+Benchmark/BenchmarkWin
+*.csv
+
+# Ignora tutti i file .txt
+*.txt
+
+*.jmp
+
