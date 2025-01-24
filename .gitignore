@@ -9,5 +9,5 @@ Benchmark/BenchmarkWin
 # Ignora tutti i file .txt
 *.txt
 
-*.jmp
+
 
